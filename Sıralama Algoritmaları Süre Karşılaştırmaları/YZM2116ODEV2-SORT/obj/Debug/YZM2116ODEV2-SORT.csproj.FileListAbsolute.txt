@@ -1,0 +1,18 @@
+c:\users\yakup\documents\visual studio 2013\Projects\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\bin\Debug\YZM2116ODEV2-SORT.exe.config
+C:\Users\Yakup\documents\visual studio 2013\Projects\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\obj\Debug\YZM2116ODEV2-SORT.csprojResolveAssemblyReference.cache
+C:\Users\Yakup\documents\visual studio 2013\Projects\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\obj\Debug\YZM2116ODEV2_SORT.Form1.resources
+C:\Users\Yakup\documents\visual studio 2013\Projects\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\obj\Debug\YZM2116ODEV2_SORT.Properties.Resources.resources
+C:\Users\Yakup\documents\visual studio 2013\Projects\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\obj\Debug\YZM2116ODEV2-SORT.csproj.GenerateResource.Cache
+C:\Users\Yakup\documents\visual studio 2013\Projects\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\bin\Debug\YZM2116ODEV2-SORT.exe
+C:\Users\Yakup\documents\visual studio 2013\Projects\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\bin\Debug\YZM2116ODEV2-SORT.pdb
+C:\Users\Yakup\documents\visual studio 2013\Projects\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\obj\Debug\YZM2116ODEV2-SORT.exe
+C:\Users\Yakup\documents\visual studio 2013\Projects\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\obj\Debug\YZM2116ODEV2-SORT.pdb
+C:\Users\yakup\Desktop\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\bin\Debug\YZM2116ODEV2-SORT.exe.config
+C:\Users\yakup\Desktop\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\obj\Debug\YZM2116ODEV2-SORT.exe
+C:\Users\yakup\Desktop\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\obj\Debug\YZM2116ODEV2-SORT.pdb
+C:\Users\yakup\Desktop\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\bin\Debug\YZM2116ODEV2-SORT.exe
+C:\Users\yakup\Desktop\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\bin\Debug\YZM2116ODEV2-SORT.pdb
+C:\Users\yakup\Desktop\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\obj\Debug\YZM2116ODEV2-SORT.csprojResolveAssemblyReference.cache
+C:\Users\yakup\Desktop\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\obj\Debug\YZM2116ODEV2_SORT.Form1.resources
+C:\Users\yakup\Desktop\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\obj\Debug\YZM2116ODEV2_SORT.Properties.Resources.resources
+C:\Users\yakup\Desktop\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\YZM2116ODEV2-SORT\obj\Debug\YZM2116ODEV2-SORT.csproj.GenerateResource.Cache
